@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>my new website project</title>
+     <meta charset="UTF-8">
+     <style>
+     body{background color:black;}
+     h1  {color:light purple;}
+     h2  {color:light purple;}
+     p   {color:pink;}
+     </style>
+</head>
+<body>
+
+<h1>welcome to my first ever website</h1>
+
+<h2> this website is all about  expirience when it comes to coding.</h2>
+
+<p>coding is not an easy thing to learn but through dedication and hard work you can get somewhere</p>
+
+<P>you learn to become a pro in coding when you put lots of attention to learning how to code </p>
+
+</body>
+</html>
+
+     
